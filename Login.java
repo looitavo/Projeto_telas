@@ -51,7 +51,7 @@ public class Login extends javax.swing.JPanel {
         Texto_AcesseConta.setBackground(new java.awt.Color(255, 255, 255));
         Texto_AcesseConta.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
         Texto_AcesseConta.setForeground(new java.awt.Color(255, 255, 255));
-        Texto_AcesseConta.setText(" Sistema Academico");
+        Texto_AcesseConta.setText(" Sistema Acadêmico");
 
         Texto_AcesseConta1.setBackground(new java.awt.Color(255, 255, 255));
         Texto_AcesseConta1.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
@@ -95,11 +95,9 @@ public class Login extends javax.swing.JPanel {
         Senha.addActionListener(this::SenhaActionPerformed);
 
         TextoUsuario.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        TextoUsuario.setIcon(new javax.swing.ImageIcon("C:\\Users\\gustavo\\OneDrive\\Documentos\\NetBeansProjects\\Sistema_Academico2\\src\\main\\Images\\Captura de tela 2026-08-10 203706.png")); // NOI18N
         TextoUsuario.setText("Usuario");
 
         TextoSenha.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        TextoSenha.setIcon(new javax.swing.ImageIcon("C:\\Users\\gustavo\\OneDrive\\Documentos\\NetBeansProjects\\Sistema_Academico2\\src\\main\\Images\\Captura de tela 2026-08-10 203723.png")); // NOI18N
         TextoSenha.setText("Senha");
 
         BotaaoCriar.setBackground(new java.awt.Color(0, 255, 102));

@@ -243,7 +243,7 @@ public class Tela_Principal_Aluno1 extends javax.swing.JFrame {
 
         jLabel27.setFont(new java.awt.Font("Liberation Sans", 1, 24)); // NOI18N
         jLabel27.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel27.setText("Sistema Acadamêmico");
+        jLabel27.setText("Sistema Acadêmico");
 
         jLabel28.setFont(new java.awt.Font("Liberation Sans", 1, 24)); // NOI18N
         jLabel28.setForeground(new java.awt.Color(255, 255, 255));
@@ -256,7 +256,7 @@ public class Tela_Principal_Aluno1 extends javax.swing.JFrame {
             .addGroup(jPanel15Layout.createSequentialGroup()
                 .addGap(14, 14, 14)
                 .addComponent(jLabel27)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 278, Short.MAX_VALUE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 312, Short.MAX_VALUE)
                 .addComponent(jLabel28)
                 .addGap(24, 24, 24))
         );
